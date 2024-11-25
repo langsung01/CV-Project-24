@@ -1,1 +1,1 @@
-# 24-CV-Proj
+# CV_Project_24
