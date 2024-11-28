@@ -1,0 +1,6 @@
+names:
+  0: tag
+  1: nutri
+  2: date
+path: .
+train: train.txt
